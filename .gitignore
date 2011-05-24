@@ -1,0 +1,9 @@
+#VIM
+*.bak
+*.swp
+*.swo
+*.vim
+
+#gcc or1200 toolchain outputs
+*.o
+
